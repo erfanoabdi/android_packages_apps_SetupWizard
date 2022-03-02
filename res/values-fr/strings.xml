@@ -49,8 +49,8 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Appel d\'urgence</string>
     <string name="accessibility_settings">Paramètres d\'accessibilité</string>
-    <string name="setup_services">Fonctionnalités de LineageOS</string>
-    <string name="services_help_improve_cm">Contribuer à l\'amélioration de <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="setup_services">Fonctionnalités de LMODroid</string>
+    <string name="services_help_improve_cm">Contribuer à l\'amélioration de <xliff:g id="name" example="LMODroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Utilisation des touches de navigation de l\'écran</b> au lieu des touches physiques.</string>
     <string name="settings_biometric_setup_title">Sélection du type de verrouillage d\'écran de sauvegarde</string>
     <string name="settings_biometric_setup_details">Comment voulez-vous verrouiller votre écran ?</string>
@@ -71,8 +71,8 @@
     <string name="lockscreen_setup_screen_lock_setup">Configurer</string>
     <string name="intro_restore_title">Restaurer les applications et les données</string>
     <string name="intro_restore_button">Restaurer depuis une sauvegarde</string>
-    <string name="update_recovery_title">Mettre à jour la récupération de Lineage</string>
-    <string name="update_recovery_description">Met à jour Lineage Recovery au premier démarrage après chaque mise à jour.</string>
+    <string name="update_recovery_title">Mettre à jour la récupération de LMODroid</string>
+    <string name="update_recovery_description">Met à jour LMODroidRecovery au premier démarrage après chaque mise à jour.</string>
     <string name="update_recovery_warning">La récupération sera mise à jour dès que vous aurez terminé la configuration. Si vous souhaitez la garder intacte, veuillez désactiver cette fonctionnalité.</string>
-    <string name="update_recovery_setting">Mettre à jour Lineage Recovery en même temps que le système d\'exploitation</string>
+    <string name="update_recovery_setting">Mettre à jour LMODroidRecovery en même temps que le système d\'exploitation</string>
 </resources>

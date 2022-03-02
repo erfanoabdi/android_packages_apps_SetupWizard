@@ -49,10 +49,10 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Экстренный вызов</string>
     <string name="accessibility_settings">Настройки специальных возможностей</string>
-    <string name="setup_services">Возможности LineageOS</string>
+    <string name="setup_services">Возможности LMODroid</string>
     <string name="services_pp_explanation">Эти службы работают, чтобы расширить возможности вашего устройства.</string>
     <string name="services_find_privacy_policy">Вы можете ознакомиться с политикой конфиденциальности на другом устройстве, посетив <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Помочь улучшить <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">Помочь улучшить <xliff:g id="name" example="LMODroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Использовать экранные навигационные кнопки</b> вместо аппаратных.</string>
     <string name="settings_biometric_setup_title">Выберите запасной режим блокировки экрана</string>
     <string name="settings_biometric_setup_details">Как следует блокировать экран?</string>
@@ -73,8 +73,8 @@
     <string name="lockscreen_setup_screen_lock_setup">Настройка</string>
     <string name="intro_restore_title">Восстановить приложения и данные</string>
     <string name="intro_restore_button">Восстановить из резервной копии</string>
-    <string name="update_recovery_title">Обновление Lineage Recovery</string>
-    <string name="update_recovery_description">Обновление Lineage Recovery при первом запуске после каждого обновления ОС.</string>
+    <string name="update_recovery_title">Обновление LMODroidRecovery</string>
+    <string name="update_recovery_description">Обновление LMODroidRecovery при первом запуске после каждого обновления ОС.</string>
     <string name="update_recovery_warning">Recovery будет обновлен по завершении установки. Если вы хотите оставить его без изменений, отключите эту функцию.</string>
-    <string name="update_recovery_setting">Обновить Lineage Recovery  вместе с ОС</string>
+    <string name="update_recovery_setting">Обновить LMODroidRecovery  вместе с ОС</string>
 </resources>

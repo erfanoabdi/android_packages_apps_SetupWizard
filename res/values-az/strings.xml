@@ -49,10 +49,10 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Fövqəladə vəziyyət zəngləri</string>
     <string name="accessibility_settings">Əlçatımlılıq tənzimləmələri</string>
-    <string name="setup_services">LineageOS özəllikləri</string>
+    <string name="setup_services">LMODroid özəllikləri</string>
     <string name="services_pp_explanation">Bu xidmətlər cihazınızın imkanlarını artırır.</string>
     <string name="services_find_privacy_policy">Gizlilik siyasətini fərqli cihazda <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> ünvanını ziyarət edərək oxuya bilərsiniz</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LMODroid">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
     <string name="services_os_nav_keys_label"><b>Avadanlıq düymələri əvəzinə ekran üstü hərəkət düymələrindən istifadə edin.</b></string>
     <string name="settings_biometric_setup_title">Ehtiyat ekran kilidi növünü seçin</string>
     <string name="settings_biometric_setup_details">Ekranınızı necə kilidləmək istərdiniz?</string>
@@ -73,8 +73,8 @@
     <string name="lockscreen_setup_screen_lock_setup">Qur</string>
     <string name="intro_restore_title">Tətbiq və verilənləri bərpa edin</string>
     <string name="intro_restore_button">Nüsxədən bərpa et</string>
-    <string name="update_recovery_title">Lineage Bərpa Rejimini Yenilə</string>
-    <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda Lineage Bərpa rejimini yeniləyər.</string>
+    <string name="update_recovery_title">LMODroidBərpa Rejimini Yenilə</string>
+    <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda LMODroidBərpa rejimini yeniləyər.</string>
     <string name="update_recovery_warning">Quraşdırma bitən kimi Bərpa rejimi yeniləcək. Sağlam qalmasını istəyirsinizsə, bu özəlliyi sıradan çıxardın.</string>
-    <string name="update_recovery_setting">ƏS ilə birgə Lineage Bərpa rejimini də yeniləyin</string>
+    <string name="update_recovery_setting">ƏS ilə birgə LMODroidBərpa rejimini də yeniləyin</string>
 </resources>
